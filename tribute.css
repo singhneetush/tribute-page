@@ -1,0 +1,34 @@
+.heading{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: black;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 5 px;
+    line-height: normal;
+    background-color: grey;
+
+}
+.firstwar{
+    text-align: right   ;
+}
+
+img{
+    border-width: 500 px;
+    border-radius: 50%;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;    
+}
+
+
+#caption{    
+    text-align: end;
+    color:black;
+    display: block;
+    padding-left: 1234px;
+}
+

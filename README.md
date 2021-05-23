@@ -1,2 +1,2 @@
 # tribute-page
-//int the raw form right now 
+//it's in the raw form right now 
